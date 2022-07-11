@@ -1,0 +1,4 @@
+- 👋 Hola, me llamo @jaraycode (Jonás Aray)
+- 👀 Estoy interesado en el desarrollo web y en ciencia de datos
+- 🌱 Actualmente estoy estudiando "Ingenieria informática" en la Universidad Católica Andrés Bello
+- 📫 Como contactarme, correo electrónico: jonasaray12@gmail.com
