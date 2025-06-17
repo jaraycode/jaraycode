@@ -35,7 +35,7 @@
 
 ### 🌐 Conéctate Conmigo
 ---
-📫 **Email:** jearay.20@est.ucab.edu.ve 
+📫 **Email:** jonasaray12@gmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon%C3%A1s-enrique-aray-p%C3%A9rez-78528a220/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaraycode)
